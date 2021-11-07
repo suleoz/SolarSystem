@@ -15,5 +15,13 @@ public class Main {
         mikasun.temp="640087K";
         mikasun.radius="860,511km";
         mikasun.martialStatus="double";
+
+        //addind planet 1
+        Planet1 astranot=new Planet1();
+        astranot.size=333333;
+        astranot.color="blue";
+        astranot.relationship="single";
+
+
     }
 }
