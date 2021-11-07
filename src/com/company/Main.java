@@ -16,11 +16,19 @@ public class Main {
         mikasun.radius="860,511km";
         mikasun.martialStatus="double";
 
+
         //adding Planet2
         Planet2 brasto=new Planet2();
         brasto.color="grey";
         brasto.size=23444;
         brasto.relationship="in relation";
+
+        //addind planet 1
+        Planet1 astranot=new Planet1();
+        astranot.size=333333;
+        astranot.color="blue";
+        astranot.relationship="single";
+
 
 
     }
