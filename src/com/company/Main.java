@@ -15,5 +15,13 @@ public class Main {
         mikasun.temp="640087K";
         mikasun.radius="860,511km";
         mikasun.martialStatus="double";
+
+        //adding Planet2
+        Planet2 brasto=new Planet2();
+        brasto.color="grey";
+        brasto.size=23444;
+        brasto.relationship="in relation";
+
+
     }
 }
